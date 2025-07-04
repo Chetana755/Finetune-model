@@ -1,1 +1,2 @@
 # Finetune-model
+In this project, I develop SupportGPT, an AI-powered chat-bot fine-tuned on real-world customer support logs to deliver personalized and context-aware responses. The goal is to enhance customer experience by enabling faster, more accurate, and brand-aligned support automation. Leveraging the capabilities of pre-trained language models, we perform domain-specific fine-tuning using a curated dataset of historical queries and responses
